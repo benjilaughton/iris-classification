@@ -1,3 +1,5 @@
+#benjamin laughton CIS2541 project 1 - 6/22/2025
+
 from sklearn import datasets
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -7,7 +9,6 @@ from sklearn import neighbors, metrics
 from sklearn import naive_bayes
 import seaborn as sns
 
-#benjamin laughton CIS2541 project 1 - 6/22/2025
 
 
 #1:
